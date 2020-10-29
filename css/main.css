@@ -2437,7 +2437,8 @@ footer a:visited {
 footer a:hover,
 footer a:focus,
 footer a:active {
-	color: #f9da4f;
+	/* color: #f9da4f; */
+	color: #FFFFFF;
 	outline: 0;
 }
 
@@ -2468,7 +2469,8 @@ footer a:active {
 .footer-social-list li a:hover,
 .footer-social-list li a:focus,
 .footer-social-list li a:active {
-	color: #f9da4f;
+	/* color: #f9da4f; */
+	color: #FFFFFF;
 }
 
 .footer-social-list li:first-child a {
@@ -2482,7 +2484,8 @@ footer a:active {
 
 .footer-info a,
 .footer-info a:visited {
-	color: #292c35;
+	/* color: #292c35; */
+	   color: #FFFFFF; 
 }
 
 .footer-info a:hover,
@@ -2502,6 +2505,10 @@ footer a:active {
 	top: 3px;
 }
 
+.footer-info p 
+{
+	color: #FFFFFF;
+}
 .footer-info .footer-link-list {
 	margin: 0 0 3rem 0;
 	padding: 0;
